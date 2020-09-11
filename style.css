@@ -5,3 +5,9 @@ html, body {
 canvas {
   display: block;
 }
+
+.container{
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto; 
+}
